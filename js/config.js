@@ -22,10 +22,6 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    jszy: {
-        api: 'https://jszyapi.com/api.php/provide/vod',
-        name: '极速资源',
-    },
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
