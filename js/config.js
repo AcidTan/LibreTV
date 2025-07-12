@@ -22,6 +22,10 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
+    gZapp: {
+        api: 'https://api.9cec79d.com',
+        name: '瓜子APP',
+    },
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
